@@ -21,7 +21,7 @@ repository               : "jkochems/jkochems.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture.jpg"
   name             : "Johannes Kochems"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
