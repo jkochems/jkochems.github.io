@@ -33,22 +33,22 @@ Germany. <br /> </div> </dd>
 
  <br />
  <br />
-**Trade Shocks and Local Public Finance: Evidenve from German Municipalities** <br />
+<dt>**Trade Shocks and Local Public Finance: Evidenve from German Municipalities**</dt> <br />
 with Adrian Lerche <br />
-<div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
+<dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
 local business tax (LBT) bases and fiscal outcomes for the period from 1992 to 2012. Import shocks
 have a detrimental effect on local outcomes, while export shocks increase LBT bases as well as municipal
 revenues and expenditures. The effect on expenditure patterns depends on municipalities’ initial fiscal
 and economic conditions. Results are stronger in the 2002 to 2012 period than in the 1992 to 2002 period.
 We find that our results are mostly driven by trade between municipalities located in West Germany and
-Eastern Europe. <br /> </div>
+Eastern Europe. <br /> </div> </dd>
 
 
  <br />
  <br />
-**The Local Economic Impact of US Troop Withdrawals in Germany** <br />
+<dt>**The Local Economic Impact of US Troop Withdrawals in Germany**</dt> <br />
 with Jakob Schmidhäuser <br />
-<div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? To answer this question,
+<dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? To answer this question,
 we exploit variation from the historical large-scale U.S. troop withdrawal from Germany at the end of
 the Cold War for identification. Administrative data by the U.S. Department of Defense enables the
 precise quantification of the shock at the municipal level. We find negative effects on local labor markets,
@@ -56,11 +56,11 @@ which transmit to municipal finances. Revenues go down, which municipalities cou
 their expenditures while increasing property tax multipliers. Long time-series enable us to show in a
 dynamic DID setup that these negative effects persist until today and often even increase over time.
 Persistently higher intergovernmental transfers allocated to affected municipalities alleviate the negative
-fiscal impacts. <br /> </div>
+fiscal impacts. <br /> </div> </dd>
 
 
  <br />
  <br />
-**Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
-from Sweden** <br />
+<dt>**Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
+from Sweden**</dt> <br />
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
