@@ -17,6 +17,7 @@ Work in Progress
 ------
 **Tax Havens in Germany** <br />
 single-authored <br />
+<div style="text-align: justify">
 *Abstract*: In a world with heterogeneous tax systems, profit maximizing firms which try to minimize their
 overall tax burdens, have an economic incentive to strategically shift their wealth and income between
 regions. Some regions cater to these firms by offering very low tax rates, trying to attract the foreign
@@ -29,4 +30,5 @@ regions *local tax havens*. So far there is no systematic information on the occ
 havens. In this project I will investigate local tax havens in Germany. I draw on administrative data on
 the municipal and establishment level to estimate the fiscal and economic effects of local tax havens in
 Germany. <br />
+</div>
  <br />
