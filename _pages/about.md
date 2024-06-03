@@ -15,7 +15,7 @@ Public Economics, Labor Economics, Regional Economics
 
 Work in Progress
 ------
-<dt>**Tax Havens in Germany**</dt> <br />
+<dt><strong>Tax Havens in Germany</strong></dt>
 single-authored <br />
 <dd><div style="text-align: justify"> In a world with heterogeneous tax systems, profit maximizing firms which try to minimize their
 overall tax burdens, have an economic incentive to strategically shift their wealth and income between
@@ -33,7 +33,7 @@ Germany. <br /> </div> </dd>
 
  <br />
  <br />
-<dt>**Trade Shocks and Local Public Finance: Evidenve from German Municipalities**</dt> <br />
+<dt><strong>Trade Shocks and Local Public Finance: Evidenve from German Municipalities</strong> </dt>
 with Adrian Lerche <br />
 <dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
 local business tax (LBT) bases and fiscal outcomes for the period from 1992 to 2012. Import shocks
@@ -46,7 +46,7 @@ Eastern Europe. <br /> </div> </dd>
 
  <br />
  <br />
-<dt>**The Local Economic Impact of US Troop Withdrawals in Germany**</dt> <br />
+<dt><strong>The Local Economic Impact of US Troop Withdrawals in Germany</strong> </dt>
 with Jakob Schmidhäuser <br />
 <dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? To answer this question,
 we exploit variation from the historical large-scale U.S. troop withdrawal from Germany at the end of
@@ -61,6 +61,6 @@ fiscal impacts. <br /> </div> </dd>
 
  <br />
  <br />
-<dt>**Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
-from Sweden**</dt> <br />
+<dt><strong>Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
+from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
