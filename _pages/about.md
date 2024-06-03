@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics at the University of Cologne, Germany. I started my PhD studies at the University of Mannheim. I am affiliated with the ECONtribute: Markets & Public Policy Cluster of Excellence.
+<div style="text-align: justify"> I am a PhD candidate in the Department of Economics at the University of Cologne, Germany. I started my PhD studies at the University of Mannheim. I am affiliated with the ECONtribute: Markets & Public Policy Cluster of Excellence. </div>
 
 Research Interests
 ------
@@ -15,9 +15,9 @@ Public Economics, Labor Economics, Regional Economics
 
 Work in Progress
 ------
-**Tax Havens in Germany** <br />
+<dt>**Tax Havens in Germany**</dt> <br />
 single-authored <br />
-<div style="text-align: justify"> In a world with heterogeneous tax systems, profit maximizing firms which try to minimize their
+<dd><div style="text-align: justify"> In a world with heterogeneous tax systems, profit maximizing firms which try to minimize their
 overall tax burdens, have an economic incentive to strategically shift their wealth and income between
 regions. Some regions cater to these firms by offering very low tax rates, trying to attract the foreign
 tax base to their jurisdiction. These regions are widely known as tax havens. Academic studies so far
@@ -28,9 +28,10 @@ incentive to attract tax bases to their jurisdiction by choosing very low corpor
 regions <em>local tax havens</em>. So far there is no systematic information on the occurrence and size of local tax
 havens. In this project I will investigate local tax havens in Germany. I draw on administrative data on
 the municipal and establishment level to estimate the fiscal and economic effects of local tax havens in
-Germany. <br /> </div>
+Germany. <br /> </div> </dd>
 
 
+ <br />
  <br />
 **Trade Shocks and Local Public Finance: Evidenve from German Municipalities** <br />
 with Adrian Lerche <br />
@@ -44,6 +45,7 @@ Eastern Europe. <br /> </div>
 
 
  <br />
+ <br />
 **The Local Economic Impact of US Troop Withdrawals in Germany** <br />
 with Jakob Schmidhäuser <br />
 <div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? To answer this question,
@@ -56,7 +58,9 @@ dynamic DID setup that these negative effects persist until today and often even
 Persistently higher intergovernmental transfers allocated to affected municipalities alleviate the negative
 fiscal impacts. <br /> </div>
 
-<br />
+
+ <br />
+ <br />
 **Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
 from Sweden** <br />
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
