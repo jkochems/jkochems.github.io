@@ -33,7 +33,7 @@ Germany. <br /> </div> </dd>
 
  <br />
  <br />
-<dt><strong>Trade Shocks and Local Public Finance: Evidenve from German Municipalities</strong> </dt>
+<dt><strong>Trade Shocks and Local Public Finance: Evidence from German Municipalities</strong> </dt>
 with Adrian Lerche <br />
 <dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
 local business tax (LBT) bases and fiscal outcomes for the period from 1992 to 2012. Import shocks
