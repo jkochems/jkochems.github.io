@@ -65,9 +65,7 @@ fiscal impacts. <br /> </div> </dd>
 from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
 
-<br />
- <br />
-<dt>
+
 Data
 ------
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
