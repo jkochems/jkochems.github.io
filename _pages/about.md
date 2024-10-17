@@ -64,3 +64,10 @@ fiscal impacts. <br /> </div> </dd>
 <dt><strong>Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
 from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
+
+<br />
+ <br />
+<dt>
+Data
+------
+<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
