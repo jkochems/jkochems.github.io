@@ -66,6 +66,8 @@ from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
 
 
-Data
+<details open>
+<summary>Data</summary>
 ------
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
+</details>
