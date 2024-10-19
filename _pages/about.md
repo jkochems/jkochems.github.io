@@ -66,29 +66,34 @@ from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
 
 
-Data
+Data Sources
 ------
+
+Other
+-----
 <details>
-<summary>Municipal Labor Data Panel</summary>
+<summary>Muniwalks (1990-2021 boundaries)</summary>
+<a href="https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/umstiegsschluessel/umsteigeschluessel.html">Bundesinstit für Bau-, Stadt- und Raumforschung</a>
+</details>
+
+<details>
+<summary>Maps and Spatial Information</summary>
+<a href="https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/verwaltungsgebiete-historisch-vg-hist.htmlE">Bundesamt für Kartographie und Geodäsie</a>
+</details>
+
+
+
+<details>
+<summary>Number of Unemployed</summary>
+<a href="https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=1721552&topic_f=arbeitslose-kgd-ab1998">Bundesagentur für Arbeit</a>
+</details>
+
+<details>
+<summary>Number of Employed, Establishments and Sum of Wages</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
 
 <details>
-<summary>Municipal Labor Data Panel</summary>
-<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
-</details>
-
-<details>
-<summary>Municipal Labor Data Panel</summary>
-<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
-</details>
-
-<details>
-<summary>Municipal Labor Data Panel</summary>
-<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
-</details>
-
-<details>
-<summary>Municipal Labor Data Panel</summary>
-<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
+<summary>Election Data</summary>
+<a href="http://www.german-elections.com/">German Election Database (GERDA; by  Vincent Heddesheimer, Hanno Hilbig, Florian Sichart, and Andreas Wiedemann (2024))</a>
 </details>
