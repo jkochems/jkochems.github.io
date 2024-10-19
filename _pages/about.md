@@ -68,27 +68,27 @@ with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
 
 Data
 ------
-<details open>
+<details>
 <summary>Municipal Labor Data Panel</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
 
-<details open>
+<details>
 <summary>Municipal Labor Data Panel</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
 
-<details open>
+<details>
 <summary>Municipal Labor Data Panel</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
 
-<details open>
+<details>
 <summary>Municipal Labor Data Panel</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
 
-<details open>
+<details>
 <summary>Municipal Labor Data Panel</summary>
 <a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
 </details>
