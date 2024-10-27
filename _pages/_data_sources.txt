@@ -1,0 +1,79 @@
+Data Sources
+------
+Below you can find links to different administrative data sources on which I draw for my empirical research.
+
+### Demographics
+<details>
+<summary>Population Numbers</summary>
+<a href="https://www.regionalstatistik.de/genesis/online?operation=statistic&levelindex=0&levelid=1729362141331&code=12411#abreadcrumb">Fortschreibung des Bevölkerungsstandes (EVAS 12411) (Regionaldatenbank Deutschland)</a>
+</details>
+
+<details>
+<summary>Internal Migration</summary>
+<a href="https://www.regionalstatistik.de/genesis/online?operation=statistic&levelindex=0&levelid=1729362141331&code=12711#abreadcrumb">Wanderungsstatistik (EVAS 12711) (Regionaldatenbank Deutschland)</a>
+</details>
+
+
+### Local Public Finance
+<details>
+<summary>Wage and Income Tax Statistics</summary>
+<a href="https://www.regionalstatistik.de/genesis/online?operation=statistic&levelindex=1&levelid=1729362502368&code=73111#abreadcrumb">Lohn- und Einkommensteuerstatistik (EVAS 73111) (Regionaldatenbank Deutschland)</a>
+</details>
+
+<details>
+<summary>Realtaxes</summary>
+<a href="https://www.regionalstatistik.de/genesis/online?operation=statistic&levelindex=1&levelid=1729362502368&code=71231#abreadcrumb">Realsteuervergleich (EVAS 71231) (Regionaldatenbank Deutschland)</a>
+</details>
+
+<details>
+<summary>Local Business Tax</summary>
+<a href="https://www.forschungsdatenzentrum.de/de/steuern/gewerbesteuer">Gewerbesteuerstatistik (EVAS 73511) (FDZ der Statistische Ämter des Bundes und der Länder)</a>
+</details>
+
+<details>
+<summary>Revenues and Expenditures</summary>
+<a href="https://www.forschungsdatenzentrum.de/de/finanzen/gemeindeschulden">Rechnungsergebnisse der Gemeinden/Gemeindeverbände (EVAS 71147) (FDZ der Statistische Ämter des Bundes und der Länder)</a>
+</details>
+
+<details>
+<summary>Debt</summary>
+<a href="https://www.forschungsdatenzentrum.de/de/finanzen/rechnungsergebnisse">Jährliche Schulden der Kernhaushalte der Gemeinden/Gemeindeverbände (EVAS 71231) (FDZ der Statistische Ämter des Bundes und der Länder)</a>
+</details>
+
+
+### International Trade
+<details>
+<summary>Imports and Exports (country-by-country)</summary>
+<a href="https://comtradeplus.un.org/">United Nations Comtrade</a>
+</details>
+
+
+### Labor Market
+<details>
+<summary>Number of Unemployed</summary>
+<a href="https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=1721552&topic_f=arbeitslose-kgd-ab1998">Bundesagentur für Arbeit</a>
+</details>
+
+<details>
+<summary>Number of Employed, Establishments and Sum of Wages</summary>
+<a href="https://uni-koeln.sciebo.de/s/wBlyh4E19FTddOE">Municipal Labor Data Panel</a>
+</details>
+
+
+### Elections
+<details>
+<summary>German Election Database</summary>
+<a href="http://www.german-elections.com/">German Election Database (GERDA; by  Vincent Heddesheimer, Hanno Hilbig, Florian Sichart, and Andreas Wiedemann (2024))</a>
+</details>
+
+
+### Other
+<details>
+<summary>Muniwalks (1990-2021 boundaries)</summary>
+<a href="https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/umstiegsschluessel/umsteigeschluessel.html">Bundesinstit für Bau-, Stadt- und Raumforschung</a>
+</details>
+
+<details>
+<summary>Maps and Spatial Information</summary>
+<a href="https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/verwaltungsgebiete-historisch-vg-hist.htmlE">Bundesamt für Kartographie und Geodäsie</a>
+</details>
