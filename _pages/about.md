@@ -15,11 +15,7 @@ Public Economics, Labor Economics, Regional Economics
 
 Work in Progress
 ------
-<dt><strong>Tax Havens in Germany</strong></dt>
-single-authored <br />
 
- <br />
- <br />
 <dt><strong>Trade Shocks and Local Public Finance: Evidence from German Municipalities</strong> </dt>
 with Adrian Lerche <br />
 <dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
@@ -44,6 +40,11 @@ their expenditures while increasing property tax multipliers. Long time-series e
 dynamic DID setup that these negative effects persist until today and often even increase over time.
 Persistently higher intergovernmental transfers allocated to affected municipalities alleviate the negative
 fiscal impacts. <br /> </div> </dd>
+
+ <br />
+ <br />
+<dt><strong>Tax Havens in Germany</strong></dt>
+single-authored <br />
 
 
  <br />
