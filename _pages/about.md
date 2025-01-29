@@ -31,19 +31,17 @@ Eastern Europe. <br /> </div> </dd>
  <br />
 <dt><strong>The Local Economic Impact of US Troop Withdrawals in Germany</strong> </dt>
 with Jakob Schmidhäuser <br />
-<dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? To answer this question,
-we exploit variation from the historical large-scale U.S. troop withdrawal from Germany at the end of
-the Cold War for identification. Administrative data by the U.S. Department of Defense enables the
-precise quantification of the shock at the municipal level. We find negative effects on local labor markets,
-which transmit to municipal finances. Revenues go down, which municipalities counter by decreasing
-their expenditures while increasing property tax multipliers. Long time-series enable us to show in a
-dynamic DID setup that these negative effects persist until today and often even increase over time.
-Persistently higher intergovernmental transfers allocated to affected municipalities alleviate the negative
-fiscal impacts. <br /> </div> </dd>
+<dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? 
+To answer this question, we exploit variation from the historical large-scale US troop withdrawal from Germany 
+at the end of the Cold War. We use administrative data from the US Department of Defense to precisely quantify 
+the troop withdrawal's size at the municipal level. We deploy a Synthetic Difference-in-Differences (SDID) estimator 
+to estimate the impacts of the troop withdrawal on local outcomes. Our results show negative effects on local labor 
+markets and municipal public finances. Local business tax revenues decrease. Affected municipalities react by lowering 
+their expenditures, while increasing property tax multipliers.<br /> </div> </dd>
 
  <br />
  <br />
-<dt><strong>Tax Havens in Germany</strong></dt>
+<dt><strong>Local Tax Havens</strong></dt>
 single-authored <br />
 
 
