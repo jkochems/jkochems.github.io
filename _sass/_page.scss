@@ -324,23 +324,23 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 60px;
-  height: 60px;
+  width: 120px;    // increased width
+  height: 80px;    // increased height for a rectangular shape
 
   @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
+    width: 200px;  // larger on larger screens
+    height: 120px;
   }
 }
 
 .comment__avatar {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  width: 100px;    // updated width
+  height: 60px;    // updated height
+  border-radius: 0;  // removed rounding for a rectangular shape
 
   @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
+    width: 180px;  // larger on larger screens
+    height: 100px;
     padding: 5px;
     border: 1px solid $border-color;
   }
