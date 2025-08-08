@@ -21,6 +21,18 @@ Public Economics, Labor Economics, Regional Economics
 Work in Progress
 ------
 
+<dt><strong>Job Market Paper: Local Tax Havens</strong></dt>
+single-authored <br />
+<dd><div style="text-align: justify"> This paper analyzes the fiscal impact of corporate profit shifting to local business tax havens in Germany. 
+Similar to international tax havens, municipalities in Germany have an incentive to reduce their local business tax (LBT) rate to attract corporate profits. 
+I define local tax havens as low-tax municipalities close to large agglomeration areas. I use synthetic difference-in-differences methods together with 
+administrative data sources and standard profit-shifting equations to estimate the amount of profit shifting to local tax havens. Between $2013$ and $2019$,
+ around $74$ billion Euros were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services.
+ The fiscal cost to non-tax haven municipalities amounts to roughly $11$ billion Euros. <br /> </div> </dd>
+
+
+ <br />
+ <br />
 <dt><strong>Trade Shocks and Local Public Finance: Evidence from German Municipalities</strong> </dt>
 with Adrian Lerche <br />
 <dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
@@ -43,11 +55,6 @@ the troop withdrawal's size at the municipal level. We deploy a Synthetic Differ
 to estimate the impacts of the troop withdrawal on local outcomes. Our results show negative effects on local labor 
 markets and municipal public finances. Local business tax revenues decrease. Affected municipalities react by lowering 
 their expenditures, while increasing property tax multipliers.<br /> </div> </dd>
-
- <br />
- <br />
-<dt><strong>Local Tax Havens</strong></dt>
-single-authored <br />
 
 
  <br />
