@@ -9,8 +9,9 @@ redirect_from:
 
 <div style="text-align: justify"> I am a PhD candidate in the Department of Economics at the University of Cologne, Germany. I started my PhD studies at the University of Mannheim. I am affiliated with the ECONtribute: Markets & Public Policy Cluster of Excellence. </div>
 
+<br />
 
-<div style="text-align: justify; color: blue; font-weight: bold"> I will be on the 2025/26 job market. </div>
+<div style="text-align: justify; font-weight: bold"> I will be on the 2025/26 job market. </div>
 
 
 Research Interests
