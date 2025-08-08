@@ -26,9 +26,9 @@ single-authored <br />
 <dd><div style="text-align: justify"> This paper analyzes the fiscal impact of corporate profit shifting to local business tax havens in Germany. 
 Similar to international tax havens, municipalities in Germany have an incentive to reduce their local business tax (LBT) rate to attract corporate profits. 
 I define local tax havens as low-tax municipalities close to large agglomeration areas. I use synthetic difference-in-differences methods together with 
-administrative data sources and standard profit-shifting equations to estimate the amount of profit shifting to local tax havens. Between $2013$ and $2019$,
- around $74$ billion Euros were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services.
- The fiscal cost to non-tax haven municipalities amounts to roughly $11$ billion Euros. <br /> </div> </dd>
+administrative data sources and standard profit-shifting equations to estimate the amount of profit shifting to local tax havens. Between 2013 and 2019,
+ around 74 billion Euros were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services.
+ The fiscal cost to non-tax haven municipalities amounts to roughly 11 billion Euros. <br /> </div> </dd>
 
 
  <br />
