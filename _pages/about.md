@@ -22,7 +22,7 @@ Public Economics, Labor Economics, Regional Economics
 Job Market Paper
 ------
 
-<dt><strong>Job Market Paper: Local Tax Havens</strong></dt>
+<dt><strong>Local Tax Havens</strong></dt>
 single-authored <br />
 <dd><div style="text-align: justify"> This paper analyzes the fiscal impact of corporate profit shifting to local tax havens. 
 Similar to international tax havens, subnational jurisdictions have an incentive to reduce their local business tax rate to attract corporate profits. 
