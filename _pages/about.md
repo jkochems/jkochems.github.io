@@ -48,7 +48,7 @@ Using a Synthetic Difference-in-Differences estimator, we find that there are ne
 The decrease in economic activity results in a reduction of revenues for affected municipalities. 
 To balance decreased revenues, affected municipalities lower their expenditures, while increasing business and property tax multipliers. 
 Viewed as a place-based policy, the US troop deployment was rather ineffective in creating local employment. 
-We estimate the cost per job to be USD USD 85,200 of US military spending. We supplement the municipal-level data with a worker-level analysis. 
+We estimate the cost per job to be USD 85,200 of US military spending. We supplement the municipal-level data with a worker-level analysis. 
 We document that workers displaced by the closure of a US military base have persistently lower employment rates. 
 At the same time, their daily wages are around 9.2 percent lower fifteen years after their layoff. 
 The negative impact on labor outcomes is particularly pronounced for women, older workers, and those employed in regions with more unfavorable initial labor market conditions.<br /> </div> </dd>
