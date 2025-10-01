@@ -39,8 +39,6 @@ The increase in local tax revenues is used to reduce public debt burdens and fin
 Work in Progress
 ------
 
-<br />
- <br />
 <dt><strong>The Local Economic Impact of US Troop Withdrawals in Germany</strong> </dt>
 with Jakob Schmidhäuser <br />
 <dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? 
