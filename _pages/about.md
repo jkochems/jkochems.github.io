@@ -29,9 +29,9 @@ Similar to international tax havens, subnational jurisdictions have an incentive
 I define local tax havens as low-tax municipalities with a large dependence on sectors that can be exploited for profit shifting. 
 I document that local tax havens are situated in close proximity to large agglomerations, while the profit-to-wage ratios documented in these jurisdictions are exceptionally high. 
 I deploy synthetic difference-in-differences methods, combined with administrative data sources and standard profit-shifting equations, to estimate the amount of profit shifting to local tax havens. 
-Between $2013$ and $2019$, around $52$ billion Euros of corporate profits were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services. 
-The fiscal cost to non-tax haven municipalities amounts to roughly $7.9$ billion Euros, while tax haven municipalities gain around $4.3$ billion Euros in tax revenues. 
-I conduct a case study on the emergence of Germany's largest local tax havens. I estimate that between $2012$ and $2019$, around $20.5$ billion was transferred to its jurisdiction. 
+Between 2013 and 2019, around 52 billion Euros of corporate profits were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services. 
+The fiscal cost to non-tax haven municipalities amounts to roughly 7.9 billion Euros, while tax haven municipalities gain around 4.3 billion Euros in tax revenues. 
+I conduct a case study on the emergence of Germany's largest local tax havens. I estimate that between 2012 and 2019, around 20.5 billion was transferred to its jurisdiction. 
 The increase in local tax revenues is used to reduce public debt burdens and finance a high level of public expenditures. <br /> </div> </dd>
 
 
@@ -52,7 +52,7 @@ To balance decreased revenues, affected municipalities lower their expenditures,
 Viewed as a place-based policy, the US troop deployment was rather ineffective in creating local employment. 
 We estimate the cost per job to be USD USD 85,200 of US military spending. We supplement the municipal-level data with a worker-level analysis. 
 We document that workers displaced by the closure of a US military base have persistently lower employment rates. 
-At the same time, their daily wages are around $9.2$ percent lower fifteen years after their layoff. 
+At the same time, their daily wages are around 9.2 percent lower fifteen years after their layoff. 
 The negative impact on labor outcomes is particularly pronounced for women, older workers, and those employed in regions with more unfavorable initial labor market conditions.<br /> </div> </dd>
 
 
