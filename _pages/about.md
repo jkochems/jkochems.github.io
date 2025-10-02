@@ -23,7 +23,7 @@ Job Market Paper
 ------
 
 <dt><strong>Local Tax Havens</strong></dt>
-single-authored <br />
+single-authored (Draft available soon) <br />
 <dd><div style="text-align: justify"> This paper analyzes the fiscal impact of corporate profit shifting to local tax havens. 
 Similar to international tax havens, subnational jurisdictions have an incentive to reduce their local business tax rate to attract corporate profits. 
 I define local tax havens as low-tax municipalities with a large dependence on sectors that can be exploited for profit shifting. 
@@ -40,7 +40,7 @@ Work in Progress
 ------
 
 <dt><strong>The Local Economic Impact of US Troop Withdrawals in Germany</strong> </dt>
-with Jakob Schmidhäuser <br />
+with Jakob Schmidhäuser (Draft available soon) <br />
 <dd><div style="text-align: justify"> What are the local economic impacts of foreign troop deployments? 
 To answer this question, we exploit variation from the historic large-scale US troop withdrawal from Germany triggered by the end of the Cold War. 
 We use US Department of Defense administrative data to precisely quantify the troop withdrawal's size at the municipal level. 
@@ -57,7 +57,7 @@ The negative impact on labor outcomes is particularly pronounced for women, olde
  <br />
  <br />
 <dt><strong>Trade Shocks and Local Public Finance: Evidence from German Municipalities</strong> </dt>
-with Adrian Lerche <br />
+with Adrian Lerche (Draft available soon) <br />
 <dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
 local business tax (LBT) bases and fiscal outcomes for the period from 1992 to 2012. Import shocks
 have a detrimental effect on local outcomes, while export shocks increase LBT bases as well as municipal
