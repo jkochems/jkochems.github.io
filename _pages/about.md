@@ -11,8 +11,6 @@ redirect_from:
 
 <br />
 
-<div style="text-align: justify; font-weight: bold"> I will be on the 2025/26 job market. </div>
-
 
 Research Interests
 ------
@@ -44,20 +42,11 @@ Work in Progress
 
 <dt><strong>Trade Shocks and Local Public Finance: Evidence from German Municipalities</strong> </dt>
 with Adrian Lerche (Draft available soon) <br />
-<dd><div style="text-align: justify"> In this paper, we investigate the effect of import and export shocks on German municipalities’
-local business tax (LBT) bases and fiscal outcomes for the period from 1992 to 2012. Import shocks
-have a detrimental effect on local outcomes, while export shocks increase LBT bases as well as municipal
-revenues and expenditures. The effect on expenditure patterns depends on municipalities’ initial fiscal
-and economic conditions. Results are stronger in the 2002 to 2012 period than in the 1992 to 2002 period.
-We find that our results are mostly driven by trade between municipalities located in West Germany and
-Eastern Europe. We supplement our municipal-level analysis with administrative data on corporate tax returns at the firm-level. 
-We document that the aggregate results are driven by very large manufacturing companies. We do not find any spillover effect on the taxable profits of non-manufacturing firms.<br /> </div> </dd>
 
 
  <br />
  <br />
-<dt><strong>Reducing Survivor Pension to Promote More Equal Labor Market Attachment of Women: Evidence
-from Sweden</strong> </dt>
+<dt><strong>Survivor Benefits, Self-Insurance, and Gender Inequality: Evidence from Sweden</strong> </dt>
 with Nadja Dwenger, Martin Nybom and Sebastian Siegloch <br />
 
 
