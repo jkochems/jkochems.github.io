@@ -26,7 +26,7 @@ with Jakob Schmidhäuser <a href="https://jkochems.github.io/files/troops.pdf" t
 <dd>
 <div style="text-align: justify"> This paper analyzes the local economic impacts of troop deployments. We exploit variation from the historic large-scale US troop withdrawal from Germany triggered by the end of the Cold War, to estimate the effect on local labor markets and public finances. We use administrative data provided by the US Department of Defense to quantify the size of the troop withdrawal at the municipal level. Using a synthetic difference-in-differences estimator, we find negative effects on local labor markets: for each withdrawn US soldier, the number of local jobs decreases by 0.53. The decrease in economic activity results in a reduction of revenues which municipalities balance by lowering their expenditures, while increasing business and property tax multipliers. In individual-level analyses, we document that Workers displaced by the closure of a US military base have persistently lower employment rates. Moreover, their daily wages remain around 9.2 percent lower fifteen years after the layoff. The negative impact on labor outcomes is particularly pronounced for women, older workers, and those employed in regions with more unfavorable initial labor market conditions. <br /> </div> 
 <div style="margin-top: 8px;">
-    <span style="font-size: 0.9em; color: #555; margin-right: 6px;">German media:</span>
+    <span style="font-size: 0.9em; font-weight: bold; color: #555; margin-right: 6px;">German media:</span>
     <a href="https://www.handelsblatt.com/politik/deutschland/usa-so-trifft-ein-us-truppenabzug-die-deutsche-wirtschaft/100227818.html" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Handelsblatt (1)</a>
     <a href="https://www.handelsblatt.com/politik/international/usa-us-truppenabzug-koennte-laut-studie-rund-2650-jobs-kosten/100228271.html" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Handelsblatt (2)</a>
     <a href="https://www.zeit.de/wirtschaft/2026-05/us-truppen-deutschland-abzug-wirtschaft-kommunen-arbeitsplaetze-gxe" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">DIE ZEIT</a>
@@ -41,13 +41,13 @@ with Jakob Schmidhäuser <a href="https://jkochems.github.io/files/troops.pdf" t
     -->
 </div>
 <div style="margin-top: 8px;">
-    <span style="font-size: 0.9em; color: #555; margin-right: 6px;">International media:</span>
+    <span style="font-size: 0.9em; font-weight: bold; color: #555; margin-right: 6px;">International media:</span>
     <a href="https://www.bloomberg.com/news/articles/2026-06-27/trump-s-troop-withdrawal-leaves-germany-s-base-towns-in-limbo" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Bloomberg</a>
     <a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">The Telegraph</a>
     <a href="https://en.ilsole24ore.com/art/us-bases-and-the-local-economy-AJPzqSG" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">IlSole24Ore</a>
 </div>
 <div style="margin-top: 8px;">
-    <span style="font-size: 0.9em; color: #555; margin-right: 6px;">Podcast:</span>
+    <span style="font-size: 0.9em; font-weight: bold; color: #555; margin-right: 6px;">Podcast:</span>
     <span style="font-size: 0.85em; color: #333; margin-right: 6px;">ZEW Wirklich Wirtschaft:</span>
     <a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Spotify</a>
     <a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Apple Podcasts</a>
