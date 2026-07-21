@@ -17,14 +17,6 @@ Research Interests
 Public Economics, Labor Economics, Regional Economics
 
 
-Job Market Paper
-------
-
-<dt><strong>Local Tax Havens</strong></dt>
-single-authored   <a href="https://jkochems.github.io/files/local_tax_havens.pdf" title="[Working Paper]">[Working Paper]</a> <br />
-<dd><div style="text-align: justify"> This paper analyzes how (local) tax havens function. Using the German municipal business tax setting as a laboratory, I investigate the characteristics and emergence of local tax havens. I demonstrate that local tax havens are situated in close proximity to large agglomeration areas, while firms' profit-to-wage ratios in these jurisdictions are exceptionally high. I document that the amount of local profit shifting is substantial. The empirical results indicate that local profit shifting is of a similar magnitude to recent findings regarding international profit shifting by German multinationals. I deploy synthetic difference-in-differences methods, combined with administrative data sources and standard profit-shifting equations, to estimate the amount of profit shifting to local tax havens. Between 2013 and 2019, around 52 billion Euros of corporate profits were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services. The direct fiscal cost to non-tax haven municipalities amounts to roughly 7.9 billion Euros, while tax haven municipalities gain around 4.3 billion Euros in tax revenues. I conduct a case study on the emergence of Germany's largest local tax havens. I estimate that between 2012 and 2019, around 20.5 billion was transferred to its jurisdiction. The increase in local tax revenues is used to reduce public debt burdens and finance a high level of public expenditures. <br /> </div> </dd>
-
-
 
 Working Papers
 ------
@@ -45,13 +37,20 @@ with Jakob Schmidhäuser <a href="https://jkochems.github.io/files/troops.pdf" t
     <a href="https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/us-truppen--studie--jeder-abgezogene-us-soldat-kostet-einen-halben-job-37449110.html" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Stern</a>
     <a href="https://www.n-tv.de/der_tag/Studie-Mit-jedem-abgezogenen-US-Soldaten-faellt-im-Umkreis-eine-halbe-Stelle-weg-id30862579.html" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">ntv</a>
     <a href="https://www.staatsanzeiger.de/nachrichten/wirtschaft/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job/" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">Staatsanzeiger BW</a>
+    <a href="https://en.ilsole24ore.com/art/us-bases-and-the-local-economy-AJPzqSG" target="_blank" style="display:inline-block; margin: 3px 4px 3px 0; padding: 3px 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85em; color: #333; text-decoration: none;">IlSole24Ore</a>
 </div>
 </dd>
 
 
- <br />
- <br />
+<br />
+<br />
+<dt><strong>Local Tax Havens</strong></dt>
+single-authored   <a href="https://jkochems.github.io/files/local_tax_havens.pdf" title="[Working Paper]">[Working Paper]</a> <br />
+<dd><div style="text-align: justify"> This paper analyzes how (local) tax havens function. Using the German municipal business tax setting as a laboratory, I investigate the characteristics and emergence of local tax havens. I demonstrate that local tax havens are situated in close proximity to large agglomeration areas, while firms' profit-to-wage ratios in these jurisdictions are exceptionally high. I document that the amount of local profit shifting is substantial. The empirical results indicate that local profit shifting is of a similar magnitude to recent findings regarding international profit shifting by German multinationals. I deploy synthetic difference-in-differences methods, combined with administrative data sources and standard profit-shifting equations, to estimate the amount of profit shifting to local tax havens. Between 2013 and 2019, around 52 billion Euros of corporate profits were shifted to local tax havens. The results are driven by a small number of large firms that offer business and financial services. The direct fiscal cost to non-tax haven municipalities amounts to roughly 7.9 billion Euros, while tax haven municipalities gain around 4.3 billion Euros in tax revenues. I conduct a case study on the emergence of Germany's largest local tax havens. I estimate that between 2012 and 2019, around 20.5 billion was transferred to its jurisdiction. The increase in local tax revenues is used to reduce public debt burdens and finance a high level of public expenditures. <br /> </div> </dd>
 
+
+ <br />
+ <br />
 Work in Progress
 ------
 
